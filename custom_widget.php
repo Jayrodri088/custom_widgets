@@ -4,7 +4,7 @@
  * Plugin URI:  https://example.com/custom-widget
  * Description: A plugin to create a custom widget.
  * Version:     1.0
- * Author:      Your Name
+ * Author:      John
  * Author URI:  https://example.com
  * License:     GPLv2 or later
  */
